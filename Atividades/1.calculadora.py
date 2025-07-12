@@ -1,5 +1,5 @@
 print("***********************Bem-vindo à calculadora criada por Sérgio Ricardo com o auxílio da DSA****************************")
-num1 = float(input("Digite o primeiro número: "))
+num1 = float(input("Digite o primeiro número:"))
 num2 = float(input("Digite o segundo número: "))
 operação = input("Selecione um simbolo de uma operação: (soma(+), subtração(-), divisão(/), multiplicação(*), exponenciação(**): ")
 if operação == "+":
